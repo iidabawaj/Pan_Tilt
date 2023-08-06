@@ -25,9 +25,9 @@ The MG996R servo motor is a commonly used servo motor in robotics and hobbyist p
 The MG996R servo motor offers a high torque output, which means it can exert a significant amount of force to rotate objects or mechanisms. This high torque capability makes it suitable for applications that require moving heavy loads or overcoming resistance. It typically has a rotation range of 180 degrees, which means it can rotate from 0 degrees (fully counter-clockwise) to 180 degrees (fully clockwise). This range can be adjusted or modified in some cases.
 
 ### The use of 2 MG996R Servo Motor
-* Using two servo motors, one for the pan and one for tilt, each axis can be controlled independently. This allows for simultaneous movement along both axes, providing a wider range of motion and flexibility in positioning the robot head or camera.
+* By using two servo motors, one for the pan and one for tilt, each axis can be controlled independently. This allows for simultaneous movement along both axes, providing a wider range of motion and flexibility in positioning the robot head or camera.
 
-* Using two servo motors helps distribute the load and weight evenly. This improves stability and reduces the chances of the head or camera tilting or sagging due to an unbalanced load.
+* Helps distribute the load and weight evenly. This improves stability and reduces the chances of the head or camera tilting or sagging due to an unbalanced load.
 
 * Each servo motor can be controlled with precision, allowing for accurate positioning and fine-tuning of the pan and tilt angles. This is particularly important in applications such as surveillance systems or camera tracking, where precise control of the viewing angles is crucial.
 
